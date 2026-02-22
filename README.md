@@ -2,7 +2,7 @@
 
 🎓 **Mathematics student** with a **strong interest in data and analytics**  
  Focused on **Data Analysis**, **Machine Learning & AI**  
- Based in India
+ 
 
 ---
 
@@ -11,17 +11,17 @@
 **I enjoy working with numbers**, **finding patterns in data**, and **solving real-world problems** using analytical thinking.  
 With a background in mathematics, I apply **statistical concepts and programming skills to extract insights from data.**  
 
-Currently **building projects in data analytics and machine learning** to strengt then practical knowledge.
+**Currently building projects in data analytics and machine learning to strengt then practical knowledge.**
 
 ---
 
 ## Technical Skills  
 
 • **Programming:** Python (Pandas, NumPy, Matplotlib)  
-• **Database:** SQL ,MySQL (for data querying )
+• **Database:**  SQL , MySQL (for data querying )
 • **Power BI:**  (for visualization )
 • **Machine Learning & AI:** 
-• **Deep Learning :** 
+• **Deep Learning:** 
 • **Mathematics & Statistics**  
 
 ---
@@ -40,6 +40,8 @@ Currently **building projects in data analytics and machine learning** to streng
 ## Connect with me  
 
 I’m open to learning opportunities, collaborations, and data-related discussions.  
+
 LinkedIn: (www.linkedin.com/in/
 prince-soni-35ba1b330)
+
 Email: (princeaboutai@gmail.com)
