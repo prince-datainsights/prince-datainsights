@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello, I'm Prince 👋  
 
-<!--
-**prince-datainsights/prince-datainsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics student with a strong interest in data and analytics  
+ Focused on Data Analysis, Machine Learning & AI  
+ Based in India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+
+I enjoy working with numbers, finding patterns in data, and solving real-world problems using analytical thinking.  
+With a background in mathematics, I apply statistical concepts and programming skills to extract insights from data.  
+
+Currently building projects in data analytics and machine learning to strengt then practical knowledge.
+
+---
+
+## Technical Skills  
+
+• Python (Pandas, NumPy, Matplotlib)  
+• SQL (for data querying )
+• Power BI (for visualization )
+• Machine Learning fundamentals  
+• Deep Learning basics  
+• Statistics & Probability  
+
+---
+
+## Projects  
+
+• Flight Data Exploratory Analysis  
+• Data Cleaning & Preprocessing Projects  
+• SQL-based Data Analysis  
+• Machine Learning Prediction Models  
+
+(More projects coming soon...)
+
+---
+
+## Connec with me  
+
+I’m open to learning opportunities, collaborations, and data-related discussions.  
+LinkedIn: (Add link)  
+Email: (princeaboutai@gmail.com)
