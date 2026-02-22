@@ -1,4 +1,4 @@
-# Hello, I'm Prince 👋  
+# Hello, I'm Prince soni 👋  
 
 🎓 Mathematics student with a strong interest in data and analytics  
  Focused on Data Analysis, Machine Learning & AI  
@@ -37,8 +37,8 @@ Currently building projects in data analytics and machine learning to strengt th
 
 ---
 
-## Connec with me  
+## Connect with me  
 
 I’m open to learning opportunities, collaborations, and data-related discussions.  
-LinkedIn: (Add link)  
+LinkedIn: (prince-soni-35ba1b330)  
 Email: (princeaboutai@gmail.com)
