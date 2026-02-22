@@ -1,4 +1,5 @@
 # Hello, I'm Prince soni 
+https://github.com/prince-datainsights/prince-datainsights/blob/main/profile-banner.png.jpg
 
 🎓 **Mathematics student** with a **strong interest in data and analytics**  
  Focused on **Data Analysis**, **Machine Learning & AI**  
