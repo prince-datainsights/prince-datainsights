@@ -31,8 +31,8 @@ With a background in mathematics, I apply **statistical concepts and programming
 
 ## Projects  
 
-• **Flight Data Exploratory Analysis**  
-• **Data Cleaning & Preprocessing Projects** 
+
+• **Statistical Analysis Project**
 • **SQL-based Data Analysis**  
 • **Machine Learning Prediction Models** 
 
