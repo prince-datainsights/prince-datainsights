@@ -101,6 +101,12 @@ Data Analytics • Machine Learning • Artificial Intelligence
 <img src="https://streak-stats.demolab.com?user=princedatasinght&theme=tokyonight"/>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princedatasinght&theme=tokyo-night"/>
+</p>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=55&section=header&text=Contributions&fontSize=28&fontColor=000000&animation=fadeIn&align=left"/>
