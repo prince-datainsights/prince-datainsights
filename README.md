@@ -7,7 +7,7 @@ Data Analytics • Machine Learning • Artificial Intelligence
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=2200&color=00BFFF&center=true&vCenter=true&width=900&lines=From+Mathematics+to+Machine+Learning;Python+%7C+SQL+%7C+Power+BI+%7C+AI;Building+Real-World+Analytics+Projects">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=2200&color=00BFFF&center=true&vCenter=true&width=950&lines=From+Mathematics+to+Machine+Learning;Python+%7C+SQL+%7C+Power+BI+%7C+Artificial+Intelligence;Building+Real-World+Analytics+Projects">
 </p>
 
 <br>
@@ -15,34 +15,34 @@ Data Analytics • Machine Learning • Artificial Intelligence
 <p align="center">
 
 <a href="https://www.linkedin.com/in/prince-soni-35ba1b330">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:princeaboutai@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=55&section=header&text=About%20Me&fontSize=28&fontColor=000000&animation=fadeIn&align=left"/>
 
-Mathematics student with a strong interest in:
+<br>
 
-- Machine Learning
-- Data Analytics
-- Artificial Intelligence
-- Statistics
-- Real-World Problem Solving
+💡 Mathematics student passionate about transforming data into meaningful insights.
 
-Currently building practical projects using Python, SQL, Power BI, and Machine Learning concepts.
-
-Available for freelance Analytics, ML, and AI-related projects.
+- 🤖 Interested in **Machine Learning & Artificial Intelligence**
+- 📊 Focused on **Data Analytics & Real-World Problem Solving**
+- 🐍 Learning **Python, SQL, Power BI & Data Visualization**
+- 📈 Building practical analytics and machine learning projects
+- 💼 Available for **Freelance Analytics, ML & AI Projects**
 
 ---
 
-# Tools & Technologies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=55&section=header&text=Tools%20%26%20Technologies&fontSize=28&fontColor=000000&animation=fadeIn&align=left"/>
+
+<br>
 
 <p align="center">
 
@@ -67,7 +67,9 @@ Available for freelance Analytics, ML, and AI-related projects.
 
 ---
 
-# Featured Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=55&section=header&text=Featured%20Work&fontSize=28&fontColor=000000&animation=fadeIn&align=left"/>
+
+<br>
 
 ### Flight Data Analysis
 - Data cleaning and visualization
@@ -79,11 +81,13 @@ Available for freelance Analytics, ML, and AI-related projects.
 - Dashboard reporting
 - Exploratory analysis
 
-More projects coming soon.
+📌 More projects coming soon.
 
 ---
 
-# GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=55&section=header&text=GitHub%20Stats&fontSize=28&fontColor=000000&animation=fadeIn&align=left"/>
+
+<br>
 
 <p align="center">
 
@@ -99,7 +103,9 @@ More projects coming soon.
 
 ---
 
-# Contributions
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=55&section=header&text=Contributions&fontSize=28&fontColor=000000&animation=fadeIn&align=left"/>
+
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/princedatasinght/princedatasinght/output/snake.svg"/>
@@ -107,24 +113,26 @@ More projects coming soon.
 
 ---
 
-# Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=55&section=header&text=Connect%20With%20Me&fontSize=28&fontColor=000000&animation=fadeIn&align=left"/>
+
+<br>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/prince-soni-35ba1b330">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/">
-<img src="https://img.shields.io/badge/MEDIUM-111111?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://stackoverflow.com/users/30758232/prince-soni">
-<img src="https://img.shields.io/badge/STACKOVERFLOW-111111?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
 <a href="https://www.quora.com/">
-<img src="https://img.shields.io/badge/QUORA-111111?style=for-the-badge&logo=quora&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
 </a>
 
 </p>
