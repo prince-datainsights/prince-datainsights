@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:4B0082&height=190&section=header&text=Prince%20Soni&fontSize=58&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:4B0082&height=220&section=header&text=Prince%20Soni&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
 Data Analytics • Machine Learning • Artificial Intelligence
 </h3>
 
-<br>
-
 <p align="center">
-From Mathematics to Real-World Intelligence
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=8A2BE2&center=true&vCenter=true&width=700&lines=From+Mathematics+to+Machine+Learning;Building+Real-World+Analytics+Projects;Python+%7C+SQL+%7C+Power+BI+%7C+AI">
 </p>
 
 <br>
