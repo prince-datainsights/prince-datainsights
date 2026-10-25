@@ -2,9 +2,10 @@
 
 # Prince Soni
 
-### Data Analytics • Business Analytics • Data Science • Machine Learning
 
-Working with Python, SQL, Excel, Power BI, statistics, and machine learning to turn data into insights, dashboards, and predictive solutions.
+### Data Analytics • Business Intelligence • Data Science • Machine Learning
+
+Analyzing patterns, building **interactive dashboards**, and developing **predictive models** across data analytics and machine learning.
 
 [LinkedIn](YOUR_LINKEDIN_LINK) • [Email](mailto:princeaboutai@gmail.com) • [Medium](https://medium.com/@prince-insight) • [Kaggle](YOUR_KAGGLE_LINK)
 
@@ -12,7 +13,7 @@ Working with Python, SQL, Excel, Power BI, statistics, and machine learning to t
 
 ---
 
-##  Professional Focus
+##  Focus Areas
 
 - Data Analytics
 - Business Analytics
@@ -31,7 +32,7 @@ Working with Python, SQL, Excel, Power BI, statistics, and machine learning to t
 
 #  Technical Skills
 
-### 📊 Data Analytics & Business Intelligence
+###  Data Analytics & Business Intelligence
 
 `Excel` `Power Query` `SQL` `Power BI` `DAX`
 
@@ -97,7 +98,7 @@ Working with Python, SQL, Excel, Power BI, statistics, and machine learning to t
 
 #  Featured Projects
 
-## 🏥 Hospital Data Analytics Dashboard
+##  Hospital Data Analytics Dashboard
 
 **Excel • Power Query • Power BI • DAX**
 
