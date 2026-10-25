@@ -24,10 +24,6 @@ Analyzing patterns, building **Interactive dashboards**, and developing **Predic
 - Statistical Analysis
 - Data Visualization
 
-### Career Direction
-
-**Data Analytics → Data Science → Machine Learning → Artificial Intelligence**
-
 ---
 
 #  Technical Skills
