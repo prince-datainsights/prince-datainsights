@@ -1,92 +1,76 @@
-#  Prince Soni
+<div align="center">
 
-### Data Analytics | Data Science | Business Analytics | Machine Learning
+# Prince Soni
 
-I work with data to uncover insights, understand business problems, build analytical solutions, and develop machine learning models.
+### Data Analytics • Business Analytics • Data Science • Machine Learning
 
-My background in **Mathematics** helps me approach data problems with analytical and statistical thinking.
+Working with Python, SQL, Excel, Power BI, statistics, and machine learning to turn data into insights, dashboards, and predictive solutions.
 
----
+[LinkedIn](YOUR_LINKEDIN_LINK) • [Email](mailto:princeaboutai@gmail.com) • [Medium](https://medium.com/@prince-insight) • [Kaggle](YOUR_KAGGLE_LINK)
 
-##  About Me
-
-I'm focused on **Data Analytics, Business Analytics, Data Science and Machine Learning**, with hands-on experience building projects using real-world datasets.
-
-I enjoy working across the complete data workflow:
-
-**Data → Cleaning → Analysis → Visualization → Insights → Machine Learning**
-
-My current focus is strengthening my skills in analytics and machine learning while building practical, business-oriented projects.
+</div>
 
 ---
 
-##   Focus Areas
-
-**Data Analyst → Business Analyst → Data Scientist → AI / ML Engineer**
-
-Currently focused on:
+##  Professional Focus
 
 - Data Analytics
 - Business Analytics
+- Business Intelligence
 - Data Science
 - Machine Learning
-- Statistical Analysis
-- Business Intelligence
-- Data Visualization
 - Predictive Analytics
+- Statistical Analysis
+- Data Visualization
+
+### Career Direction
+
+**Data Analytics → Data Science → Machine Learning → Artificial Intelligence**
 
 ---
 
 #  Technical Skills
 
-## 📊 Data Analytics & Business Intelligence
+### 📊 Data Analytics & Business Intelligence
 
-- Excel
-- Power Query
-- SQL
-- Power BI
-- DAX
+`Excel` `Power Query` `SQL` `Power BI` `DAX`
+
 - Data Cleaning
 - Data Wrangling
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - KPI Analysis
+- Dashboard Development
 - Business Intelligence
 - Business Analytics
-- Reporting & Dashboard Development
+- Reporting & Insights
 
----
+###  Python & Data Science
 
-##  Python & Data Science
+`Python` `Pandas` `NumPy` `Matplotlib`
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
 - Data Manipulation
 - Data Analysis
-- Statistical Analysis
 - Exploratory Data Analysis
+- Statistical Analysis
 - Feature Engineering
+- Data Visualization
 
----
+### 🤖 Machine Learning
 
-## 🤖 Machine Learning
+`Scikit-learn` `Random Forest` `XGBoost`
 
-- Scikit-learn
 - Regression
 - Classification
 - Feature Engineering
-- Random Forest
-- XGBoost
-- Model Evaluation
 - Predictive Modeling
+- Model Evaluation
 - Cross-Validation
-- Model Performance Analysis
+- Precision
+- Recall
+- F1-Score
 
----
-
-##  Artificial Intelligence
+###  Artificial Intelligence
 
 - Machine Learning
 - Deep Learning Fundamentals
@@ -94,15 +78,10 @@ Currently focused on:
 - AI Fundamentals
 - Predictive Modeling
 
-Currently expanding my knowledge in **Deep Learning, AI and Model Deployment**.
+### 🗄️ SQL
 
----
-
-##  Databases & Querying
-
-- SQL
 - Data Extraction
-- Data Filtering
+- Filtering
 - Joins
 - Aggregations
 - Subqueries
@@ -110,27 +89,19 @@ Currently expanding my knowledge in **Deep Learning, AI and Model Deployment**.
 - Window Functions
 - Analytical Queries
 
----
+###  Tools & Platforms
 
-##  Tools & Technologies
-
-- Git
-- GitHub
-- Jupyter Notebook
-- Google Colab
-- VS Code
-- Microsoft Excel
-- Power BI
+`Git` `GitHub` `Jupyter Notebook` `Google Colab` `VS Code`
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
 ## 🏥 Hospital Data Analytics Dashboard
 
-**Tools:** Excel • Power Query • Power BI • DAX
+**Excel • Power Query • Power BI • DAX**
 
-A healthcare analytics project focused on analyzing patient, department, doctor and financial data through an interactive Power BI dashboard.
+Healthcare analytics project focused on analyzing patient, department, doctor, and financial data through an interactive Power BI dashboard.
 
 ### Key Areas
 
@@ -143,19 +114,17 @@ A healthcare analytics project focused on analyzing patient, department, doctor 
 - Data Transformation
 - Interactive Dashboard
 
-### Skills Demonstrated
+**Skills:** `Excel` `Power Query` `Power BI` `DAX` `Data Analytics`
 
-`Excel` `Power Query` `Power BI` `DAX` `Data Analytics` `Data Visualization`
-
-[🔗 View Project](./Hospital-Data-Analysis-Dashboard)
+🔗 [View Project](https://github.com/prince-datainsights/Hospital-Data-Analysis-Dashboard)
 
 ---
 
 ##  AdventureWorks Sales Analysis
 
-**Tools:** Power BI • DAX • Data Analytics
+**Power BI • DAX • Business Intelligence**
 
-A business intelligence project focused on analyzing sales performance, revenue, profitability and business KPIs.
+Business intelligence project focused on analyzing sales performance, revenue, profitability, products, and regional performance.
 
 ### Key Areas
 
@@ -166,21 +135,18 @@ A business intelligence project focused on analyzing sales performance, revenue,
 - Product Analysis
 - Regional Analysis
 - KPI Development
-- Business Insights
 
-### Skills Demonstrated
+**Skills:** `Power BI` `DAX` `Business Intelligence` `Sales Analytics`
 
-`Power BI` `DAX` `Business Intelligence` `Sales Analytics` `Data Visualization`
-
-[🔗 View Project](./Adventure-Works-Sales-Analysis-Power-BI)
+🔗 [View Project](https://github.com/prince-datainsights/Adventure-Works-Sales-Analysis-Power-BI)
 
 ---
 
 ##  Digital Marketing Analytics
 
-**Tools:** Power BI • Data Analytics • Business Intelligence
+**Power BI • Data Analytics • Business Intelligence**
 
-A digital marketing analytics project focused on understanding campaign performance and evaluating marketing efficiency.
+Analytics project focused on evaluating digital marketing campaign performance and marketing efficiency.
 
 ### Key Metrics
 
@@ -192,31 +158,56 @@ A digital marketing analytics project focused on understanding campaign performa
 - Campaign Performance
 - Marketing Efficiency
 
-### Skills Demonstrated
+**Skills:** `Power BI` `Business Analytics` `Marketing Analytics` `Data Visualization`
 
-`Data Analytics` `Power BI` `Business Analytics` `Marketing Analytics` `KPI Analysis`
+🔗 [View Project](YOUR_MARKETING_REPO_LINK)
 
 ---
 
-## 🤖 E-Commerce Fraud / Risk Prediction
+##  Inventory & Stockout Prediction
 
-**Tools:** Python • Pandas • Scikit-learn • Random Forest • XGBoost
+**Data Analytics • Predictive Analytics • Machine Learning**
 
-A machine learning project focused on identifying potentially fraudulent or high-risk transactions.
+Predictive analytics project focused on identifying products with higher stockout risk using demand, inventory, warehouse, lead-time, and supplier-related factors.
+
+### Key Areas
+
+- Inventory Analysis
+- Demand Analysis
+- Stockout Risk
+- Product Analysis
+- Warehouse Analysis
+- Feature Engineering
+- Predictive Modeling
+- Business Decision Support
+
+**Skills:** `Python` `Data Analytics` `Machine Learning` `Predictive Analytics`
+
+🔗 [View Project](YOUR_INVENTORY_REPO_LINK)
+
+---
+
+# 🤖 Machine Learning Projects
+
+##  E-Commerce Fraud / Risk Prediction
+
+**Python • Pandas • Scikit-learn • Random Forest • XGBoost**
+
+Machine learning project focused on identifying potentially fraudulent or high-risk e-commerce transactions.
 
 ### Workflow
 
 ```text
 Data
-  ↓
+   ↓
 Data Cleaning
-  ↓
+   ↓
 Exploratory Data Analysis
-  ↓
+   ↓
 Feature Engineering
-  ↓
+   ↓
 Model Training
-  ↓
+   ↓
 Model Evaluation
-  ↓
-Prediction
+   ↓
+Risk Prediction
