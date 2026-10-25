@@ -5,7 +5,7 @@
 
 ### Data Analytics • Business Intelligence • Data Science • Machine Learning
 
-Analyzing patterns, building **Interactive dashboards**, and developing **Predictive Models** across data analytics and machine learning.
+Analyzing patterns, building **Interactive dashboards**, and developing **Predictive Models** across **Data analytics** and **machine learning**.
 
 [LinkedIn](YOUR_LINKEDIN_LINK) • [Email](mailto:princeaboutai@gmail.com) • [Medium](https://medium.com/@prince-insight) • [Kaggle](YOUR_KAGGLE_LINK)
 
