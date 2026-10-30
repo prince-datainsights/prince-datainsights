@@ -7,7 +7,7 @@
 
 Analyzing patterns, building **Interactive dashboards**, and developing **Predictive Models** across **Data analytics** and **machine learning**.
 
-<a href="https://www.linkedin.com/in/prince-soni-35ba1b330">LinkedIn</a> · <a href="mailto:princeaboutai@gmail.com">Email</a> · <a href="https://medium.com/@prince-insight">Medium</a> · <a href="YOUR_KAGGLE_LINK">Kaggle</a>
+<a href="https://www.linkedin.com/in/prince-soni-35ba1b330">LinkedIn</a> · <a href="mailto:princeaboutai@gmail.com">Email</a> · <a href="https://medium.com/@prince-insight">Medium</a> · <a href="https://www.kaggle.com/princeinsight">Kaggle</a>
 
 </div>
 
